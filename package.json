@@ -1,0 +1,23 @@
+{
+  "name": "ravish1729-test-devops",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravish1729/test-devops.git"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ravish1729/test-devops/issues"
+  },
+  "homepage": "https://github.com/ravish1729/test-devops#readme"
+}
